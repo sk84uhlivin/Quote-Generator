@@ -69,6 +69,10 @@ print()
 print(quote)
 print()
 print(f'{len(used_numbers)} / {num_quotes} used.')
+print()
+
 
 # Sleep.
 sleep(sleep_sec)
+
+input("Press any key to exit...")

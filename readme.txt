@@ -1,0 +1,1 @@
+Put quotes in first column of first sheet. The second column shows what's been chosen already. Remove a number from there to have it added to the pool again. Once all quotes are used, it'll add them all again to the pool. 
