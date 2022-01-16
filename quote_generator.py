@@ -15,7 +15,7 @@ def strip_string(string):
 	
 lastquote_filepath = 'lastquote.txt'
 padding = 20
-sleep_sec = 0
+sleep_sec = 3
 
 
 # Load in workbook.
@@ -73,6 +73,5 @@ print()
 
 
 # Sleep.
+print(f'Program will abort in {sleep_sec} seconds...')
 sleep(sleep_sec)
-
-input("Press any key to exit...")
